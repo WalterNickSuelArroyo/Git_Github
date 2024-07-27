@@ -204,17 +204,3 @@ rm nombre_del_archivo
 Para eliminar directorios y todo su contenido, debes usar la opción -r (recursive):
 
 rm -r nombre_del_directorio
-
-# SECCION 2. COMANDOS BÁSICOS EN GIT
-
-## 8. Crea un repositorio de Git y haz tu primer commit
-
-## 9. Analizar cambios en los archivos de tu proyecto con Git
-
-## 10. ¿Que es el staging?
-
-## 11. ¿Que es branch (rama) y cómo funciona un Merge en Git?
-
-## 12. Volver en el tiempo en nuestro repositorio utilizando reset y checkout
-
-## 13. Git reset vs. Git rm
